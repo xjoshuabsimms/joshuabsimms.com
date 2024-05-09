@@ -35,6 +35,13 @@
     "education":[
       
       {
+        "school":"Kennesaw State University",
+        "degree":"Master of Science in Software Engineering (MSSWE)",
+        "graduated":"In-Progress",
+        "description":""
+        
+      },
+      {
         "school":"GEORGIA SOUTHERN UNIVERSITY",
         "degree":"Bachelor of Science in Information Technology",
         "graduated":"May 2019",
