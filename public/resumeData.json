@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name":"Joshua B. Simms",
+    "description":"Multi Cloud | Full Stack | IT Automation | IT Development | Terraform ",
+    "image":"profilepic.jpg",
+    "bio":"Nice to meet you, I’m Joshua B. Simms, an experienced enterprise IT Engineer with passion, enthusiasm and in-depth knowledge of traditional, converged, and hyper-converged IT Infrastructure and business technology. I am a graduate of Georgia Southern University where I attained my Bachelor of Science in Information Technology in May of 2019. Professionally I’ve provided support to a wide range of IT disciplines which range from network, system, server, storage, and application administration. These skills allow me to be an innovative and resourceful IT Engineer by recommending, provisioning, administering, automating and life cycling a wide range of enterprise business and infrastructure systems.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "joshuabsimms@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/joshuabsimms/",
+    "github":"https://github.com/xjoshuabsimms",
+    
+    "address":{
+      "state":"UNITED STATES"
+    },
+    "website": "https://joshuabsimms.com",
+    "resumedownload":"resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joshuabsimms/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/xjoshuabsimms",
+        "className":"fa fa-github"
+      }
+      
+      
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      
+      {
+        "school":"GEORGIA SOUTHERN UNIVERSITY",
+        "degree":"Bachelor of Science in Information Technology",
+        "graduated":"May 2019",
+        "description":"Specialization: Networking and Datacenter Management "
+        
+      }
+    ],
+    "work":[
+      {
+        "company":"AMAZON WEB SERVICES",
+        "title":"Cloud Engineer ",
+        "years":"August 2022 - Present",
+        "description":""
+      },
+      {
+        "company":"UCLA HEALTH",
+        "title":"Technical Service Delivery Engineer",
+        "years":"September 2021 - September 2022",
+        "description":""
+      },
+      {
+        "company":"AUGUSTA NATIONAL GOLF CLUB",
+        "title":"Cloud Infrastructure Engineer ",
+        "years":"December 2019 - May 2021",
+        "description":""
+      },
+      {
+        "company":"UNIVERSITY OF SOUTH CAROLINA",
+        "title":"Network System Engineer ",
+        "years":"July 2019 - December 2019",
+        "description":""
+      },
+      {
+        "company":"GEORGIA SOUTHERN UNIVERSITY",
+        "title":"Executive IT Technician ",
+        "years":"June 2017 - May 2019",
+        "description":""
+      },
+      {
+        "company":"GEEK SQUAD",
+        "title":"Consultation Agent ",
+        "years":"November 2016 – July 2017",
+        "description":""
+      },
+      {
+        "company":"BEST BUY",
+        "title":"Computing Sales Associate ",
+        "years":"July 2016 – November 2016",
+        "description":""
+      }
+      
+    ],
+    "skills":[
+      {
+        "name":"AMAZON WEB SERVICES",
+        "level":"55%"
+      },
+      {
+        "name":"TERRAFORM",
+        "level":"60%"
+      },
+      {
+        "name":"JENKINS",
+        "level":"55%"
+      },
+      {
+        "name":"WINDOWS SERVER | DOMAIN",
+        "level":"55%"
+      },
+      {
+        "name":"LINUX",
+        "level":"80%"
+      },
+      {
+        "name":"PYTHON",
+        "level":"80%"
+      },
+      {
+        "name":"POWERSHELL",
+        "level":"80%"
+      },
+      {
+        "name":"BASH",
+        "level":"90%"
+      },
+      {
+        "name":"REACTJS",
+        "level":"80%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  }
+}
