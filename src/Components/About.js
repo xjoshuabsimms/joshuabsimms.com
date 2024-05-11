@@ -48,7 +48,13 @@ class About extends Component {
             </div>
           </div>
         </Fade>
+        <p className="scrolldown">
+        <a className="smoothscroll" href="#about">
+          <i className="icon-down-circle"></i>
+        </a>
+      </p>
       </section>
+      
     );
   }
 }
