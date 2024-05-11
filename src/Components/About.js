@@ -6,7 +6,7 @@ class About extends Component {
     if (!this.props.data) return null;
 
     const name = this.props.data.name;
-    const profilepic = "images/" + this.props.data.image;
+    const profilepic2 = "images/" + this.props.data.image;
     const bio = this.props.data.bio;
     const email = this.props.data.email;
     const resumeDownload = this.props.data.resumedownload;
@@ -18,7 +18,7 @@ class About extends Component {
             <div className="three columns">
               <img
                 className="profile-pic"
-                src={profilepic}
+                src={profilepic2}
                 alt="Nordic Giant Profile Pic"
               />
               

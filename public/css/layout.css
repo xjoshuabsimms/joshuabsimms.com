@@ -53,6 +53,14 @@ header .banner {
    padding-bottom: 30px;
    text-align: center;
 }
+#home .profile-pic {
+   position: sticky;
+   width: 180px;
+   height: 225px;
+   margin-left: auto;
+  margin-right: auto;
+   border-radius: 10%;
+}
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
@@ -164,7 +172,8 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #fff;
+ul#nav li.current a { color: #fe6928; }
+   color: #fe6928;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -182,7 +191,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #9da7a8;
+   background: #b8bcbc;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -204,7 +213,7 @@ ul#nav li.current a { color: #fe6928; }
    position: relative;
    width: 130px;
    height: 171px;
-   border-radius: 100%;
+   border-radius: 40%;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {

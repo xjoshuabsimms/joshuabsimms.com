@@ -8,6 +8,7 @@ class Header extends Component {
 
   
     const github = this.props.data.github;
+    const profilepic = "images/" + this.props.data.image;
     const linkedin = this.props.data.linkedin;
     const name = this.props.data.name;
     const description = this.props.data.description;
@@ -50,7 +51,14 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <Fade bottom>
+            <div className="profile-pic">
+              <img
+                className="profile-pic"
+                src={profilepic}
+                alt="Nordic Giant Profile Pic"
+              />
               
+            </div>
               <h1 className="responsive-headline">{name}</h1>
             </Fade>
             <Fade bottom duration={1200}>
