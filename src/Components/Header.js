@@ -1,18 +1,13 @@
 import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
-import Fade from "react-reveal";
+import Fade from "react-reveal/Fade";
+import { FaGithub, FaLinkedin, FaApplePay } from "react-icons/fa";
 
-class Header extends Component {
-  render() {
-    if (!this.props.data) return null;
+const Header = ({ data }) => {
+  if (!data) return null;
 
-  
-    const github = this.props.data.github;
-    const profilepic = "images/" + this.props.data.image;
-    const linkedin = this.props.data.linkedin;
-    const name = this.props.data.name;
-    const description = this.props.data.description;
-  
+  const { applepay, github, image, linkedin, name, description } = data;
+  const profilepic = `images/${image}`;
 
     return (
       <header id="home">
@@ -59,25 +54,25 @@ class Header extends Component {
               />
               
             </div>
-              <h1 className="responsive-headline">{name}</h1>
-            </Fade>
-            <Fade bottom duration={1200}>
-              <h3>{description}</h3>
-            </Fade>
-            <hr />
-            <Fade bottom duration={2000}>
-              <ul className="social">
-                
-                <a href={linkedin} className="button btn github-btn">
-                  <i className="fa fa-linkedin"></i>LinkedIn
-                </a>
-                <a href={github} className="button btn github-btn">
-                  <i className="fa fa-github"></i> GitHub
-                </a>
-              </ul>
-            </Fade>
-          </div>
+            <h1 className="responsive-headline">{name}</h1>
+          </Fade>
+          <Fade bottom duration={1200}>
+            <h3>{description}</h3>
+          </Fade>
+          <hr />
+          <Fade bottom duration={2000}>
+            <ul className="social">
+              <a href={linkedin} className="button btn github-btn">
+                <FaLinkedin /> LinkedIn
+              </a>
+              <a href={github} className="button btn github-btn">
+                <FaGithub /> GitHub
+              </a>
+              
+            </ul>
+          </Fade>
         </div>
+      </div>
 
         <p className="scrolldown">
           <a className="smoothscroll" href="#about">
