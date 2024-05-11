@@ -16,7 +16,7 @@ class Header extends Component {
 
     return (
       <header id="home">
-        <ParticlesBg type="random" bg={true} />
+        <ParticlesBg type="square" bg={true} />
 
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
@@ -51,7 +51,7 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <Fade bottom>
-            <div className="profile-pic">
+            <div id="picture" className="profile-pic">
               <img
                 className="profile-pic"
                 src={profilepic}
