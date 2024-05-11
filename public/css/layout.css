@@ -55,8 +55,8 @@ header .banner {
 }
 #picture .profile-pic {
    position: relative;
-   width:24.5%;
-   height: 22.5%;
+   width: 35%;
+   height: 35%;
    margin-left: auto;
   margin-right: auto;
    border-radius: 10%;
