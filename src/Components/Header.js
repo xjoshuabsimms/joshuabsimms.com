@@ -1,12 +1,12 @@
 import React from "react";
 import ParticlesBg from "particles-bg";
 import Fade from "react-reveal/Fade";
-import { FaGithub, FaLinkedin, FaApplePay } from "react-icons/fa";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 const Header = ({ data }) => {
   if (!data) return null;
 
-  const { applepay, github, image, linkedin, name, description } = data;
+  const  github, image, linkedin, name, description } = data;
   const profilepic = `images/${image}`;
 
   return (
