@@ -35,14 +35,14 @@
     "education":[
       
       {
-        "school":"KENNESAW STATE UNIVERSITY",
+        "school":"Kennesaw State University",
         "degree":"Master of Science in Software Engineering (MSSWE)",
         "graduated":"In-Progress",
         "description":""
         
       },
       {
-        "school":"GEORGIA SOUTHERN UNIVERSITY",
+        "school":"Georgia Southern University",
         "degree":"Bachelor of Science in Information Technology (BSIT)",
         "graduated":"May 2019",
         "description":"Specialization: Networking and Datacenter Management "
