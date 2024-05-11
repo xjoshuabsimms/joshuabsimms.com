@@ -6,7 +6,7 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 const Header = ({ data }) => {
   if (!data) return null;
 
-  const  github, image, linkedin, name, description } = data;
+  const { github, image, linkedin, name, description } = data;
   const profilepic = `images/${image}`;
 
   return (
@@ -66,7 +66,6 @@ const Header = ({ data }) => {
               <a href={github} className="button btn github-btn">
                 <FaGithub /> GitHub
               </a>
-              
             </ul>
           </Fade>
         </div>
