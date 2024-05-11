@@ -71,13 +71,11 @@ const Header = ({ data }) => {
         </div>
       </div>
 
-      <div className="portal-button">
-        <a href="#about">
-          <div className="portal-circle">
-            <div className="portal-arrow"></div>
-          </div>
+      <p className="scrolldown">
+        <a className="smoothscroll" href="#about">
+          <i className="icon-down-circle"></i>
         </a>
-      </div>
+      </p>
     </header>
   );
 };
