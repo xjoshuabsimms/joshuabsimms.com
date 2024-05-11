@@ -51,45 +51,45 @@
     ],
     "work":[
       {
-        "company":"AMAZON WEB SERVICES",
+        "company":"Amazon Web Services (AWS)",
         "title":"Cloud Engineer ",
-        "years":"August 2022 - Present",
+        "years":"2022 - Present",
         "description":""
       },
       {
-        "company":"UCLA HEALTH",
+        "company":"University of California, Los Angeles Health",
         "title":"Technical Service Delivery Engineer",
-        "years":"September 2021 - September 2022",
+        "years":"2021 - 2022",
         "description":""
       },
       {
-        "company":"AUGUSTA NATIONAL GOLF CLUB",
+        "company":"Augusta National Golf Club",
         "title":"Cloud Infrastructure Engineer ",
-        "years":"December 2019 - May 2021",
+        "years":"2019 - 2021",
         "description":""
       },
       {
-        "company":"UNIVERSITY OF SOUTH CAROLINA",
+        "company":"University of South Carloina",
         "title":"Network System Engineer ",
-        "years":"July 2019 - December 2019",
+        "years":"2019",
         "description":""
       },
       {
-        "company":"GEORGIA SOUTHERN UNIVERSITY",
+        "company":"Georgia Southern University",
         "title":"Executive & Athletics IT Engineer ",
-        "years":"June 2017 - May 2019",
+        "years":"2017 - 2019",
         "description":""
       },
       {
-        "company":"GEEK SQUAD",
+        "company":"Geek Squad",
         "title":"Field Agent  ",
-        "years":"November 2016 – July 2017",
+        "years":"2016 – 2017",
         "description":""
       },
       {
-        "company":"BEST BUY",
+        "company":"Best Buy",
         "title":"Computing Sales Associate ",
-        "years":"July 2016 – November 2016",
+        "years":"2016 ",
         "description":""
       }
       
@@ -104,7 +104,7 @@
         "level":"60%"
       },
       {
-        "name":"ANSIBLE",
+        "name":"VMware vSphere",
         "level":"55%"
       },
       {
@@ -124,7 +124,7 @@
         "level":"80%"
       },
       {
-        "name":"BASH",
+        "name":"ANSIBLE",
         "level":"90%"
       },
       {
