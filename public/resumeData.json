@@ -4,7 +4,7 @@
     "description":"Multi Cloud | Full Stack | IT Automation | IT Development ",
     "image":"profilepic.jpg",
     "image2":"profilepic2.jpg",
-    "bio":"Nice to meet you, I’m Joshua B. Simms, an experienced enterprise IT Engineer with passion, enthusiasm and in-depth knowledge of traditional, converged, hyper-converged and cloud IT Infrastructure. I am currently pursuing a Master of Science in Software Engineering from Kennesaw State University and have also obtained my Bachelor of Science in Information Technology from Georgia Southern University in 2019. With over sever years of professional expertise I’ve provided support to a wide range of IT disciplines which range from network, system, server, storage, and application engineering. These skills allow me to be an innovative IT professional by automating IT administation and life cycle for enterprise business and infrastructure systems.",
+    "bio":"Nice to meet you, I’m Joshua B. Simms, an experienced enterprise IT Engineer with passion, enthusiasm and in-depth knowledge of traditional, converged, hyper-converged and cloud IT Infrastructure. I am currently pursuing a Master of Science in Software Engineering from Kennesaw State University and have also obtained my Bachelor of Science in Information Technology from Georgia Southern University in 2019. With over seven years of professional experience supporting a wide range of IT disciplines from network, system, server, storage, application and cloud Infrastructure. These skills allow me to be an innovative IT professional by automating IT administation and life cycle management for enterprise business and infrastructure systems.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "joshuabsimms@gmail.com",
     "linkedin": "https://www.linkedin.com/in/joshuabsimms/",
@@ -46,7 +46,7 @@
         "school":"Georgia Southern University",
         "degree":"Bachelor of Science in Information Technology (BSIT)",
         "graduated":"May 2019",
-        "description":"Specialization: Networking and Datacenter Management "
+        "description":"
         
       }
     ],
